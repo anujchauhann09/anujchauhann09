@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Chauhan</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Backend services using FastAPI, Django & Django**
+- 🔭 I’m currently working on **Backend services using FastAPI, Django**
 
 - 🌱 I’m currently learning **Microservices & distributed systems, Performance optimization & system design, etc.**
 
